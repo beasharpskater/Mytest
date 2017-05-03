@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About John"
+    url: /about/
+  - title: "Testimonials"
+    url: /testimonials/
+  - title: "Hockey Preparation"
+    url: /hockey-prep/
+  - title: "Helpful Hockey Tips"
+    url: /hockey-tips/
+  - title: "Clinics and Games"
+    url: /clinics-games/
+  - title: "Sharp Skating Apparel"
+    url: /apparel/
+  - titls: "Contact"
+    url: /contact/
