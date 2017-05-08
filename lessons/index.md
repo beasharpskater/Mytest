@@ -31,5 +31,11 @@ John coaches private hockey and skating lessons in Cary.
 
 Lessons are primarily taught at the Cary or Garner Ice House. However, after viewing this schedule, if there are preferred times at other locations please contact me to check for availability. Lessons outside of Cary or Garner may cost an additional $10.
 
+## Rink Schedules
 
-Lessons may vary by week, depending on ice availability. Please check the schedule each week to ensure there is no confusion.
+Lessons may vary by week, depending on ice availability. Please check the rink schedules each week to ensure there is no confusion.
+
+- [Cary Ice House](http://www.icehousecary.com/page/show/86348-skating-schedules)
+- [Garner Ice House](http://www.icehousegarner.com/page/show/88411-skating-schedules)
+- [Raleigh Center Ice](http://www.raleighcenterice.com/page/show/885706-schedule)
+- [Wake Forest Ice House](http://www.icehousewakeforest.com/page/show/74240-public-open-hockey-and-figure-skating)
