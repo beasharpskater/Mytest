@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Sharp Skating"
 title_separator          : "-"
-name                     : "beasharpskater"
+name                     : "John Loehr"
 description              : "Taking your skills to the edge ..."
 url                      : "https://beasharpskater.github.io"
 baseurl                  : "/Mytest"
@@ -78,13 +78,13 @@ analytics:
 # Site Author
 author:
   name             : "John Loehr"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/john.jpg"
+  bio              : "John grew up skating and playing hockey in Long Island, New York in 1990. His background in teaching, experience coaching, and his love for helping others has mended him into an outstanding skating and hockey coach. John hopes to one day see one of the many players he coaches playing on TV."
   location         : "Cary, NC"
   email            :
   uri              :
   facebook         :
-  github           : "beasharpskater"
+  github           :
   google_plus      :
   instagram        :
   linkedin         :
