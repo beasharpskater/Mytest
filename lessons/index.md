@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Schedule a Lesson
+author_profile: true
 ---
 
 John coaches private hockey and skating lessons in Cary.

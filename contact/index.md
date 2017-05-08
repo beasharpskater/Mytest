@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About John
+author_profile: true
 ---
 
 - 27 years hockey experience
