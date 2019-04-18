@@ -11,8 +11,8 @@ title                    : "Sharp Skating"
 title_separator          : "-"
 name                     : "John Loehr"
 description              : "Taking your skills to the edge ..."
-url                      : "https://beasharpskater.github.io"
-baseurl                  : "/Mytest"
+url                      : "https://beasharpskater.com"
+baseurl                  : ""
 repository               : "beasharpskater/Mytest"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -83,8 +83,8 @@ author:
   location         : "Cary, NC"
   email            :
   uri              :
-  facebook         : sharpskating
-  github           : beasharpskater
+  facebook         : "sharpskating"
+  github           : "beasharpskater"
   google_plus      :
   instagram        :
   linkedin         : 
