@@ -6,10 +6,6 @@ author_profile: true
 
 John coaches private hockey and skating lessons in Cary.
 
-## Availability
-
-<iframe src="https://beasharpskater.youcanbook.me/?noframe=true&skipHeaderFooter=true" id="ycbmiframebeasharpskater" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true"></iframe><script>window.addEventListener && window.addEventListener("message", function(event){if (event.origin === "https://beasharpskater.youcanbook.me"){document.getElementById("ycbmiframebeasharpskater").style.height = event.data + "px";}}, false);</script>
-
 ## Lesson Rates
 
 ### Skating Lessons
